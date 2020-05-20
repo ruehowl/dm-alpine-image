@@ -26,7 +26,7 @@ pyparsing = "==2.0.2"
 rollbar = "==0.14.6"
 celery = {extras = ["redis"],version = "==4.3.0"}
 kombu = "==4.5.0"
-httplib2 = "==0.8"
+httplib2 = "==0.18.0"
 certifi = "==2018.11.29"
 csvkit = "==0.6.1"
 iso3166 = "==0.9"
